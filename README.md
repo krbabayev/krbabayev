@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @krbabayev
-- 👀 I’m interested in Programming and Cyber Security
-- 🌱 I’m currently learning Cyber Security on TryHackMe.com and GoLang 
-- 📫 You can reach me at email : kanan.bv@gmail.com
+- 👀 I’ve got no idea what I am doing
 
 <!---
 krbabayev/krbabayev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
